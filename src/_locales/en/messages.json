@@ -1,0 +1,10 @@
+{
+  "l10nName": {
+    "message":"Currency Exchange"
+    ,"description":"Extension official name"
+  }
+  ,"l10nDescription": {
+    "message":"Chrome plugin to convert page prices to a different currency in real time"
+    ,"description":"Extension Description"
+  }
+}

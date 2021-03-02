@@ -1,0 +1,10 @@
+{
+  "l10nName": {
+    "message":"Cambio valute"
+    ,"description":"Nome ufficiale dell'estensione"
+  }
+  ,"l10nDescription": {
+    "message":"Plugin per chrome per convertire i prezzi in pagina nella valuta desiderata"
+    ,"description":"Descrizione dell'estensione"
+  }
+}
