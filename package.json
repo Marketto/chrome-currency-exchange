@@ -49,6 +49,7 @@
     "webpack": "^5.24.2",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2",
-    "write-file-webpack-plugin": "^4.5.1"
+    "write-file-webpack-plugin": "^4.5.1",
+    "zip-folder": "^1.0.0"
   }
 }
